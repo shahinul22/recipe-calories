@@ -1,0 +1,162 @@
+[
+    {
+      "recipe_image": "https://ibb.co.com/zx14ttY",
+      "recipe_id": "1",
+      "recipe_name": "Grilled Chicken Salad",
+      "short_description": "A healthy and tasty grilled chicken salad with fresh greens.",
+      "ingredients": [
+        "200 g chicken breast",
+        "100 g lettuce",
+        "50 g cherry tomatoes",
+        "30 g avocado",
+        "20 ml olive oil",
+        "1 tbsp lemon juice"
+      ],
+      "preparing_time": "25 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/mCJmGGx/2024-D138-MIED-STEAK-1-768x960.jpg",
+      "recipe_id": "2",
+      "recipe_name": "Steak and charred pear salad with blue cheese and tarragon dressing",
+      "short_description": "Classic spaghetti served with a rich and savory bolognese sauce.",
+      "ingredients": [
+        "200 g spaghetti",
+        "150 g ground beef",
+        "1 onion",
+        "200 g tomato paste",
+        "2 cloves garlic",
+        "50 g Parmesan cheese"
+      ],
+      "preparing_time": "45 min",
+      "calories": "550 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/3cr30pQ/bNk3YAcb.jpg",
+      "recipe_id": "3",
+      "recipe_name": "Greek Salad",
+      "short_description": "A refreshing Greek salad made with cucumbers, olives, and feta cheese.",
+      "ingredients": [
+        "1 cucumber",
+        "100 g Kalamata olives",
+        "100 g feta cheese",
+        "50 g red onion",
+        "2 tbsp olive oil",
+        "1 tsp oregano"
+      ],
+      "preparing_time": "15 min",
+      "calories": "250 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/brsSCW1/1P2kkBu.jpg",
+      "recipe_id": "4",
+      "recipe_name": "Fluffy Pancakes",
+      "short_description": "Light and fluffy pancakes served with maple syrup.",
+      "ingredients": [
+        "200 g flour",
+        "2 eggs",
+        "250 ml milk",
+        "50 g butter",
+        "2 tbsp sugar",
+        "1 tsp vanilla extract"
+      ],
+      "preparing_time": "20 min",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/T47MVsf/1P2kkBub.jpg",
+      "recipe_id": "5",
+      "recipe_name": "Tropical Smoothie",
+      "short_description": "A delicious tropical smoothie made with mango, pineapple, and coconut milk.",
+      "ingredients": [
+        "100 g mango",
+        "100 g pineapple",
+        "150 ml coconut milk",
+        "1 banana",
+        "1 tsp honey"
+      ],
+      "preparing_time": "10 min",
+      "calories": "200 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/qY3kb3X/P4qzyXgb.jpg",
+      "recipe_id": "6",
+      "recipe_name": "Vegetable Lasagna",
+      "short_description": "A hearty vegetable lasagna with layers of pasta and cheese.",
+      "ingredients": [
+        "12 lasagna sheets",
+        "300 g ricotta cheese",
+        "200 g spinach",
+        "100 g mushrooms",
+        "500 g tomato sauce",
+        "200 g mozzarella"
+      ],
+      "preparing_time": "60 min",
+      "calories": "600 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/KXZgNfN/aagEUYqb.jpg",
+      "recipe_id": "7",
+      "recipe_name": "Chicken Curry",
+      "short_description": "A flavorful chicken curry made with a blend of spices and coconut milk.",
+      "ingredients": [
+        "300 g chicken breast",
+        "200 ml coconut milk",
+        "2 tbsp curry powder",
+        "1 onion",
+        "2 cloves garlic",
+        "1 tsp ginger"
+      ],
+      "preparing_time": "40 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/KXZgNfN/aagEUYqb.jpg",
+      "recipe_id": "8",
+      "recipe_name": "Sushi Rolls",
+      "short_description": "Delicious homemade sushi rolls with fresh fish and vegetables.",
+      "ingredients": [
+        "100 g sushi rice",
+        "4 nori sheets",
+        "150 g tuna",
+        "1 cucumber",
+        "1 avocado",
+        "2 tbsp soy sauce"
+      ],
+      "preparing_time": "30 min",
+      "calories": "300 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/KXZgNfN/aagEUYqb.jpg",
+      "recipe_id": "9",
+      "recipe_name": "Grilled Steak",
+      "short_description": "Juicy grilled steak served with a side of roasted vegetables.",
+      "ingredients": [
+        "200 g beef steak",
+        "2 tbsp olive oil",
+        "1 tsp salt",
+        "1 tsp pepper",
+        "1 tbsp garlic powder",
+        "100 g asparagus"
+      ],
+      "preparing_time": "25 min",
+      "calories": "600 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/KXZgNfN/aagEUYqb.jpg",
+      "recipe_id": "10",
+      "recipe_name": "Cheeseburger",
+      "short_description": "A classic cheeseburger with melted cheese, lettuce, and tomato.",
+      "ingredients": [
+        "1 beef patty",
+        "1 burger bun",
+        "1 slice cheddar cheese",
+        "1 leaf lettuce",
+        "1 tomato slice",
+        "1 tbsp ketchup"
+      ],
+      "preparing_time": "15 min",
+      "calories": "550 calories"
+    }
+  ]
+  
