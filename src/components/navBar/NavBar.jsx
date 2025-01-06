@@ -53,6 +53,7 @@ const Navbar = () => {
                         <li><a>Home</a></li>
                         <li><a>Recipes</a></li>
                         <li><a>About</a></li>
+                        <li><a>Search</a></li>
                     </ul>
                 </div>
 
@@ -102,7 +103,7 @@ const Navbar = () => {
                     <div className="avatar">
                         <div className="w-10 md:w-12 rounded-full">
                             <img
-                                src="https://img.daisyui.com/images/stock/photo-1534528741775-53994a69daeb.webp"
+                                src="https://i.ibb.co.com/V3HdZdy/Xx-N7-VCJF32-Xf.jpg"
                                 alt="User Avatar"
                             />
                         </div>

@@ -5,12 +5,14 @@ const Recipe = ({ recipe, handleWantToCook }) => {
 
     return (
         <div className="card bg-white shadow-lg rounded-lg overflow-hidden max-w-xl  transition-all duration-500 ease-in-out hover:scale-105">
-            <figure className="w-full max-h-64 h-auto p-2">
+            <figure className="h-64 w-full p-2">
                 <img
                     src={recipe_image}
                     alt={recipe_name}
-                    className="rounded-xl" />
+                    className="w-full h-full object-cover rounded-xl"
+                />
             </figure>
+
             <div className="card-body p-6">
                 <div className="border-b pb-3 mb-4">
                     <h2 className="text-xl font-bold mb-2">{recipe_name}</h2>

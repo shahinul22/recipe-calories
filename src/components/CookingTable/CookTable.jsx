@@ -6,7 +6,7 @@ const CookTable = ({ cook, idx }) => {
         <tbody className="">
             <tr className=" bg-gray-200 ">
                 <th>{idx}</th>
-                <td><p className="text-xs font-normal lg:text-xl">{recipe_name}</p></td>
+                <td><p className="text-xs font-normal">{recipe_name}</p></td>
                 <td>{preparing_time}</td>
                 <td>{calories}</td>
             </tr>
