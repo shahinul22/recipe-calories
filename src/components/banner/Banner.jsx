@@ -2,7 +2,7 @@ const Banner = () => {
     return (
         <div className="  mx-3 lg:mx-16 mt-10 rounded-3xl group bg-[url('https://i.ibb.co/SxFcnxy/development-with-abstract-background.jpg')] 
                         bg-cover bg-center text-white transition-all duration-500 ease-in-out hover:scale-105">
-            <div className="relative  h-[50vh] md:h-[60vh] lg:h-[70vh]">
+            <div className="relative  h-[80vh] md:h-[70vh] lg:h-[90vh]">
                 <div className="absolute inset-0 bg-black/50 flex items-center justify-center rounded-3xl">
                     <div className="container mx-auto px-4 md:px-8 text-center ">
                         <h1 className="text-3xl md:text-5xl font-bold mb-4 text-center p-5">

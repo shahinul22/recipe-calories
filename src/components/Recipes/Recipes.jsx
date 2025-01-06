@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react';
 import Recipe from './../Recipe/Recipe';
 
-const Recipes = () => {
+const Recipes = ({ handleWantToCook }) => {
+
     const [recipes, setRecipes] = useState([]);
 
     useEffect(() => {
@@ -12,13 +13,16 @@ const Recipes = () => {
     }, []);
 
     return (
-        <div>
-            <h2 className="text-4xl mb-6">Recipes</h2>
+        <div className=' mx-auto'>
+
             {/* Map over recipes and pass each individual recipe to the Recipe component */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 items-start gap-3 mx-3 lg:mx-16 mt-10">
                 {
                     recipes.map((recipe) => (
-                        <Recipe key={recipe.recipe_id} recipe={recipe} />
+                        <Recipe 
+                        key={recipe.recipe_id} 
+                        handleWantToCook={handleWantToCook}
+                        recipe={recipe} />
                     ))
                 }
             </div>

@@ -8,7 +8,7 @@ const Navbar = () => {
     };
 
     return (
-        <div className="bg-base-100 shadow relative">
+        <div className="bg-base-100 shadow relative mt-10">
             {/* Main Navbar */}
             <div className="container mx-auto px-4 lg:px-8 flex items-center justify-between h-16">
                 {/* Left Section */}
